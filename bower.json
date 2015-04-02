@@ -14,6 +14,7 @@
     "tests"
   ],
   "main": [
+  "build/dist/core/excanvas.min.js",
   "build/dist/core/jquery.jqplot.min.js",
   "build/dist/plugins/axis/jqplot.logAxisRenderer.min.js",
   "build/dist/plugins/axis/jqplot.dateAxisRenderer.min.js",
