@@ -1,0 +1,33 @@
+{
+  "name": "gbelmm/jqplot",
+  "version": "1.0.9",
+  "homepage": "https://github.com/gbelmm/jQPlot",
+  "authors": [
+    "Gabriel Muñoz <gbelmm@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "main": [
+  "build/core/jquery.jqplot.min.js",
+  "build/plugis/axis/jqplot.logAxisRenderer.min.js",
+  "build/plugis/axis/jqplot.dateAxisRenderer.min.js",
+  "build/plugis/axis/jqplot.categoryAxisRenderer.min.js",
+  "build/plugis/axis/jqplot.canvasAxisTickRenderer.min.js",
+  "build/plugis/axis/jqplot.canvasAxisLabelRenderer.min.js",
+  "build/plugis/cursor/jqplot.cursor.min.js",
+  "build/plugis/bar/jqplot.barRenderer.min.js",
+  "build/plugis/points/jqplot.pointLabels.min.js",
+  "build/plugis/bubble/jqplot.bubbleRenderer.min.js",
+  "build/plugis/legend/jqplot.enhancedLegendRenderer.min.js",
+  "build/plugis/highlighter/jqplot.highlighter.min.js",
+  "build/plugis/overlay/jqplot.canvasOverlay.min.js",
+  "build/core/jquery.jqplot.min.css"
+  
+  ]
+}
